@@ -11,7 +11,7 @@ Saiba mais sobre a [EDUCAFRO](https://www.educafro.org.br/bkp_site/conheca-educa
 
 O Preta Tech faz  parte da [EducafroTech](https://ead.educafro.org.br/).
 
-## Stack utilizada
+## Stacks utilizadas
 
 **Front-end:** HTML
 
